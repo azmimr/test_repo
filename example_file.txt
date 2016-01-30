@@ -1,0 +1,5 @@
+This is an example file to test Git and Github
+Process to add files to repo:
+- add file to Git repo
+- Commit file to local Git repo
+- Push files to Github repo
